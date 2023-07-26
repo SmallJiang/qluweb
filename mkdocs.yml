@@ -1,0 +1,17 @@
+site_name: 齐鲁工业大学网络与高性能计算协会（网络运维）
+site_url: https://wlyw.qlu.edu.cn
+nav:
+    - 首页: https://wlyw.qlu.edu.cn
+    - 关于我们: about.md
+    - 协会动态: news.md
+    - 加入我们: join.md
+    - 联系我们: chat.md
+    - 友情链接: link.md
+    - 网络资源: resources.md
+    - 开源软件镜像站: https://mirrors.qlu.edu.cn
+    - 高性能计算平台: https://hpc.qlu.edu.cn
+    - 校园MineCraft服务器: https://www.mc9g.cn
+    - NTP授时服务器: ntp.md
+    - 网络启动支撑平台: pxe.md
+theme:
+  name: material

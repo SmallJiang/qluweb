@@ -5,7 +5,7 @@
 - [中国科学技术大学Linux用户协会](https://lug.ustc.edu.cn)
 - [清华大学TUNA协会](https://tuna.moe/)
 
---- 
+---
 
 ## 教育网联合镜像站
 
@@ -15,7 +15,7 @@
 - [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [中国科学技术大学镜像站](https://mirrors.qlu.edu.cn)
 
---- 
+---
 
 ## MineCraft组织
 

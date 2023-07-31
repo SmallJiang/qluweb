@@ -12,32 +12,32 @@
 
 ## 如何加入我们？
 
-网络与高性能计算协会（网络运维）2023年纳新通道已经开启，欢迎齐鲁工业大学（山东省科学院）长清校区的同学报名参加我们的纳新。  
+网络与高性能计算协会（网络运维）2023 年纳新通道已经开启，欢迎齐鲁工业大学（山东省科学院）长清校区的同学报名参加我们的纳新。  
 
-- [2023网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)
+- [2023 网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)
 - 沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
 
 ## 你将会得到什么？
 
 轻松愉快且舒适的工作/学习场所:
 
-- 图书馆C101：部门办公室，24H空调，冰箱，千兆对等网络
+- 图书馆 C101：部门办公室，24H 空调，冰箱，千兆对等网络
 
-- 图书馆实践活动中心：成员工位(数量有限)，24H空调，千兆对等网络，PCB焊接设备与环境
+- 图书馆实践活动中心：成员工位 (数量有限)，24H 空调，千兆对等网络，PCB 焊接设备与环境
 
-强大的软硬件学习资源:
+强大的软硬件学习资源：
 
-- 中心机房托管的高性能服务器(CPU)
+- 中心机房托管的高性能服务器 (CPU)
 
-- 山河超级计算平台使用权限(CPU/GPU)
+- 山河超级计算平台使用权限 (CPU/GPU)
 
-- 自建NAS网络高速储存设备
+- 自建 NAS 网络高速储存设备
 
 - 网络渗透靶场平台
 
 - 内部网课资源和专业技术考试学习资料
 
-丰富的技能实践机会:
+丰富的技能实践机会：
 
 - 部门和协会同[国家超级计算济南中心](http://www.nsccjn.cn/)、[济南超级计算计算研究院](https://www.jnist.cn/)、[赛尔网络](https://www.cernet.com)、[中国移动山东省分公司](https://www。10086.cn)、[神州顶联](https://www.toplion.com.cn)等知名研究机构和企业单位有良好的沟通与合作关系。部门和协会将会定期推荐富有专业知识和技术能力的同学进去相关研究机构和企业单位就职或实习。
 

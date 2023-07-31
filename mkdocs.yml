@@ -13,5 +13,11 @@ nav:
     - 校园MineCraft服务器: https://www.mc9g.cn
     - NTP授时服务器: ntp.md
     - 网络启动支撑平台: pxe.md
+    - 信息系统常见故障答疑: 
+      - 校园网问题: help/campusnetwork.md
+      - VPN问题: help/vpn.md
+      - 网络资源问题: help/networkresources.md
+      - 信息系统问题: help/sso.md
+
 theme:
   name: material

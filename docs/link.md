@@ -2,10 +2,10 @@
 
 ## 姊妹社团
 
-- [中国科学技术大学Linux用户协会](https://lug.ustc.edu.cn)
-- [清华大学TUNA协会](https://tuna.moe/)
+- [中国科学技术大学 Linux 用户协会](https://lug.ustc.edu.cn)
+- [清华大学 TUNA 协会](https://tuna.moe/)
 
---- 
+---
 
 ## 教育网联合镜像站
 
@@ -15,11 +15,11 @@
 - [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [中国科学技术大学镜像站](https://mirrors.qlu.edu.cn)
 
---- 
+---
 
-## MineCraft组织
+## MineCraft 组织
 
-- [中国MineCraft高校联盟](https://www.mualliance.ltd/)
+- [中国 MineCraft 高校联盟](https://www.mualliance.ltd/)
 
 ---
 

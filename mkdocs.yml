@@ -1,7 +1,6 @@
-site_name: 齐鲁工业大学网络与高性能计算协会（网络运维）
+site_name: 齐鲁工业大学网络网络运维&网络与高性能计算协会
 site_url: https://wlyw.qlu.edu.cn
 nav:
-    - 首页: https://wlyw.qlu.edu.cn
     - 关于我们: about.md
     - 协会动态: news.md
     - 加入我们: join.md

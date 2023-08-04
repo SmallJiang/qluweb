@@ -21,18 +21,20 @@
 
 我校采用深信服的 EasyConnect 客户端，可以到[客户端下载页面](c/com/installClient_en.html#auto-common)下载适合您设备的应用程序。
 
-<img src="img/vpn-download.png" width=100% />
+<img src="/img/vpn-download.png" width=100% />
 
 下载完成后，打开下载好的客户端安装程序进行安装
 
-<img src="img/vpn-install.png" width=100% />
+<img src="/img/vpn-install.png" width=100% />
 
 安装完成后，若浏览器中已登录[工大 VPN 网站](https://vpn.qlu.eu.cn)，
 刷新该网站页面即可成功登录客户端
 
 如浏览器中未登录工大VPN网站，可打开工大VPN客户端,
 
-<img src="img/vpn-app.png" width=100% />
+<center class="half">
+<img src="/img/vpn-app.png" width=15% />
+</center>
 
 在首页地址框填入我校 VPN 服务地址：[vpn.qlu.edu.cn](https://vpn.qlu.edu.cn/)
 

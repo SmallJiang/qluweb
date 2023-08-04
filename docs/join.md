@@ -16,8 +16,12 @@
 
 网络与高性能计算协会（网络运维）2023 年纳新通道已经开启，欢迎齐鲁工业大学（山东省科学院）长清校区的同学报名参加我们的纳新。  
 
-- [2023 网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)
+- [在线报名表单](http://wlyw.qlu.edu.cn)
+
+- [2023 网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079) 群号：725386079
 - 沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
+
+---
 
 ## 你将会得到什么？
 
@@ -46,3 +50,7 @@
 - 部门每年可提供数十个各类专业技能竞赛的参赛名额和全额差旅报销
 
 对于校园网建设和维护工作做出贡献的成员，<del>可以获得各类不可细说的隐藏福利</del>
+
+---
+
+最后更新时间 2023 年 8 月 4 日 制作：刘正阳 李京鸿 梁一博

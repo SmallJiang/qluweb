@@ -6,7 +6,7 @@ nav:
     - 加入我们: join.md
     - 联系我们: chat.md
     - 友情链接: link.md
-    - 网络资源: resources.md
+    - 信息系统导航: resources.md
     - 开源软件镜像站: https://mirrors.qlu.edu.cn
     - 高性能计算平台: https://hpc.qlu.edu.cn
     - 校园MineCraft服务器: https://www.mc9g.cn
@@ -17,7 +17,8 @@ nav:
       - VPN: help/vpn.md
       - 邮箱系统: help/mail.md
       - 微软正版化: help/ms.md
-      - 统一身份认证（一网通）: help/sso.md
+      - 统一身份认证: help/sso.md
+      - 一网通: help/os.md
       - 开源软件镜像站: help/mirrors.md
 
 theme:

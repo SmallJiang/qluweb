@@ -10,6 +10,8 @@
 
 部门和协会同[国家超级计算济南中心](http://www.nsccjn.cn/)、[济南超级计算计算研究院](https://www.jnist.cn/)、[赛尔网络](https://www.cernet.com)、[中国移动山东省分公司](https://www.10086.cn)、[神州顶联](https://www.toplion.com.cn)等知名研究机构和企业单位有良好的沟通与合作关系。部门和协会将会定期推荐富有专业知识和技术能力的同学进去相关研究机构和企业单位就职或实习
 
+<img src="/img/2022.jpg" width=100% />
+
 ---
 
 ## 部门/协会资源
@@ -58,19 +60,21 @@
 
 ## 联系我们
 
-我们的办公与活动场所位于齐鲁工业大学（山东省科学院）校图书馆 C 区 1 楼 C101 办公室。
+2023 年网络运维&网络与高性能协会纳新已经开始，欢迎对本部门或协会感兴趣的新生及在校同学加入我们。
 
-2023 年齐鲁工业大学网络运维与网络与高性能协会纳新活动已经开始，欢迎对本部门或协会感兴趣的新生及在校同学加入我们。
+- 我们的办公与活动场所位于齐鲁工业大学（山东省科学院）校图书馆 C 区 1 楼 C101 办公室。
 
-[2023 网络运维&网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)
+- [2023 网络运维&网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)
 
-沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
+- 沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
+
+- 联系电话 0531-89631358 
 
 ---
 
 ## 部门/协会LOGO
 
-<img src=<https://mirrors.qlu.edu.cn/static/img/logo-small@4x.png> width=10% />
+![logo](/img/logo.jpg)
 
 ---
 
@@ -82,4 +86,4 @@
 
  ---
 
- 最后更新时间：2023 年 7 月 26 日
+ 最后更新时间：2023 年 7 月 26 日 制作：刘正阳

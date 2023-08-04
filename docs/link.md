@@ -3,17 +3,15 @@
 ## 姊妹社团
 
 - [中国科学技术大学 Linux 用户协会](https://lug.ustc.edu.cn)
-- [清华大学 TUNA 协会](https://tuna.moe/)
 
 ---
 
-## 教育网联合镜像站
+## 教育网内开源软件镜像站
 
-- [MirrorZ](https://help.mirrors.cernet.edu.cn)
-- [南京大学镜像站](https://mirrors.nju.edu.cn/)
-- [北京大学镜像站](https://mirrors.pku.edu.cn)
-- [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [校园网联合镜像站](https://help.mirrors.cernet.edu.cn)
 - [中国科学技术大学镜像站](https://mirrors.qlu.edu.cn)
+- [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [南京大学开源镜像站](https://mirrors.nju.edu.cn/)
 
 ---
 

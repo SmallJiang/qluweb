@@ -2,14 +2,18 @@
 
 # 齐鲁工业大学 VPN 服务
 
-网络信息中心开通了 VPN(虚拟私有网络) 服务。您可以通过连接 VPN 在校外，或者在没有校园网账号的情况下，轻松访问校内的网络信息资源。
+网络信息中心开通了 VPN(虚拟私有网络) 服务。您可以通过连接 VPN 在校外或没有校园网账号的情况下，轻松访问校内的网络信息资源。
 
 ## 在线使用 VPN
 
-部分简易的服务，例如教务系统、校内邮箱可以通过[在线 VPN 网站](https://vpn.qlu.eu.cn)使用，无需下载客户端。
-您只需要进入 VPN 网站后，通过统一身份认证系统登陆后，点击访问您所需的服务。
+部分简易的服务，例如教务系统、校内邮箱可以通过[工大 VPN 网站](https://vpn.qlu.eu.cn)使用，无需下载客户端。
+您只需要进入 VPN 网站后，通过一号通系统登陆，即可点击访问您所需的服务。
 
 <img src="/img/vpn1.png" width=100% />
+
+若想要访问的服务呈灰色，且页面顶端提示未安装客户端，则需要[安装客户端](#使用客户端连接-vpn)
+
+<img src="/img/vpn-require.png" width=100% />
 
 ## 使用客户端连接 VPN
 
@@ -17,11 +21,26 @@
 
 我校采用深信服的 EasyConnect 客户端，可以到[客户端下载页面](c/com/installClient_en.html#auto-common)下载适合您设备的应用程序。
 
-下载完成后，在 VPN 应用首页填入我校 VPN 服务地址：[vpn.qlu.edu.cn](https://vpn.qlu.edu.cn/)
+<img src="/img/vpn-download.png" width=100% />
+
+下载完成后，打开下载好的客户端安装程序进行安装
+
+<img src="/img/vpn-install.png" width=100% />
+
+安装完成后，若浏览器中已登录[工大 VPN 网站](https://vpn.qlu.eu.cn)，
+刷新该网站页面即可成功登录客户端
+
+如浏览器中未登录工大VPN网站，可打开工大VPN客户端,
+
+<center class="half">
+<img src="/img/vpn-app.png" width=15% />
+</center>
+
+在首页地址框填入我校 VPN 服务地址：[vpn.qlu.edu.cn](https://vpn.qlu.edu.cn/)
 
 <img src="/img/vpn2.png" width=100% />
 
-然后使用一网通登陆 VPN 系统后即可连接校内网络资源
+然后点击使用一网通登陆 VPN 系统后即可连接校内网络资源
 
 <img src="/img/vpn3.png" width=100% />
 

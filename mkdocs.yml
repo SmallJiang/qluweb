@@ -18,7 +18,7 @@ nav:
       - 统一身份认证: help/sso.md
       - 一网通: help/os.md
       - 工大云盘: help/yunpan.md
-      - 开源软件镜像站: help/mirrors.md
+      - 开源软件镜像站: https://mirrors.qlu.edu.cn/help/CRAN/
 
 theme:
   name: material

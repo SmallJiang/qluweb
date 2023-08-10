@@ -18,7 +18,7 @@
 
 - [在线报名表单](http://wlyw.qlu.edu.cn)
 
-- [2023 网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079) 群号：725386079
+- [2023 网络与高性能计算协会交流 QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)
 - 沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
 
 ---
@@ -53,4 +53,4 @@
 
 ---
 
-最后更新时间 2023 年 8 月 4 日 制作：刘正阳 李京鸿 梁一博
+最后更新时间 2023 年 8 月 10 日

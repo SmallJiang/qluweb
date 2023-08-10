@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD007 -->
+<!-- markdownlint-disable MD033 -->
 
 # 齐鲁工业大学网络运维&网络与高性能计算协会
 
@@ -68,13 +69,15 @@
 
 - 沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
 
-- 联系电话 0531-89631358 
+- 联系电话 [0531-89631358](tel:053189631358)
 
 ---
 
 ## 部门/协会LOGO
 
-![logo](/img/logo.jpg)
+<center>
+<img src="/img/logo.jpg" width=30% />
+</center>
 
 ---
 
@@ -86,4 +89,4 @@
 
  ---
 
- 最后更新时间：2023 年 7 月 26 日 制作：刘正阳
+ 最后更新时间：2023 年 8 月 10 日

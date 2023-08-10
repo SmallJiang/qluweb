@@ -11,7 +11,7 @@
 
 部门和协会同[国家超级计算济南中心](http://www.nsccjn.cn/)、[济南超级计算计算研究院](https://www.jnist.cn/)、[赛尔网络](https://www.cernet.com)、[中国移动山东省分公司](https://www.10086.cn)、[神州顶联](https://www.toplion.com.cn)等知名研究机构和企业单位有良好的沟通与合作关系。部门和协会将会定期推荐富有专业知识和技术能力的同学进去相关研究机构和企业单位就职或实习
 
-<img src="/img/2022.jpg" width=100% />
+<img src="/img/2022.jpeg" width=100% />
 
 ---
 

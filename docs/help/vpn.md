@@ -63,7 +63,3 @@
 - 不兼容 ARM 架构系统：深信服公司对于产品的迭代较为缓慢，目前还不支持 ARM 架构
 
 如果您的系统遇到了以上问题，建议将 EasyConnect 安装在虚拟机环境或是使用 Docker 容器（操作难度较高，适合专业人士）封装该应用。参见由重庆大学 @Hagb 的项目：[docker-easyconnect](https://github.com/Hagb/docker-easyconnect)
-
----
-
- 最后更新时间 2023 年 8 月 10 日

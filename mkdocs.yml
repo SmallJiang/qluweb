@@ -8,17 +8,16 @@ nav:
     - 友情链接: link.md
     - 信息系统导航: resources.md
     - 开源软件镜像站: https://mirrors.qlu.edu.cn
-    - 高性能计算平台: https://hpc.qlu.edu.cn
     - 校园MineCraft服务器: https://www.mc9g.cn
-    - NTP授时服务器: ntp.md
-    - 网络启动支撑平台: pxe.md
     - 信息系统常见故障答疑: 
       - 校园网: help/campusnetwork.md
-      - VPN: help/vpn.md
+      - 网络资源申请: help/apply.md
+      - 校外VPN: help/vpn.md
       - 邮箱系统: help/mail.md
-      - 微软正版化: help/ms.md
+      - 正版软件: help/ms.md
       - 统一身份认证: help/sso.md
       - 一网通: help/os.md
+      - 工大云盘: help/yunpan.md
       - 开源软件镜像站: help/mirrors.md
 
 theme:

@@ -8,6 +8,5 @@
 - [正版软件服务平台](https://ms.qlu.edu.cn)
 - [新教务系统](https://jw.qlu.edu.cn)
 - [开源软件镜像站](https://mirrors.qlu.edu.cn)
-- [MineCraft 服务器](https://www.mc9g.cn)
 - [高性能计算平台](https://hpc.qlu.edu.cn)
 - [校外 VPN 系统](https://vpn.qlu.edu.cn)

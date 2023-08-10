@@ -1,5 +1,7 @@
 site_name: 齐鲁工业大学网络网络运维&网络与高性能计算协会
-site_url: https://wlyw.qlu.edu.cn
+site_url: 
+repo_url: https://github.com/AethoceSora/qluweb/
+repo_name: qluweb
 nav:
     - 关于我们: about.md
     - 协会动态: news.md
@@ -22,3 +24,11 @@ nav:
 
 theme:
   name: material
+  favicon: img/favicon.ico
+  repo: fontawesome/brands/github
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: iso_date    
+

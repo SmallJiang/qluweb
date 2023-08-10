@@ -1,3 +1,4 @@
 mkdocs
 mkdocs-material
 importlib-metadata
+mkdocs-git-revision-date-localized-plugin

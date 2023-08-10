@@ -72,7 +72,3 @@
 <center class="half">
     <img src="/img/ssorl1.jpg" width=40% /><img src="/img/ssorl2.jpg" width=40% />
 </center>
-
----
-
- 最后更新时间 2023 年 8 月 10 日

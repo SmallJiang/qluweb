@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD007 -->
+<!-- markdownlint-disable MD033 -->
 
 # 齐鲁工业大学网络运维&网络与高性能计算协会
 
@@ -10,7 +11,7 @@
 
 部门和协会同[国家超级计算济南中心](http://www.nsccjn.cn/)、[济南超级计算计算研究院](https://www.jnist.cn/)、[赛尔网络](https://www.cernet.com)、[中国移动山东省分公司](https://www.10086.cn)、[神州顶联](https://www.toplion.com.cn)等知名研究机构和企业单位有良好的沟通与合作关系。部门和协会将会定期推荐富有专业知识和技术能力的同学进去相关研究机构和企业单位就职或实习
 
-<img src="/img/2022.jpg" width=100% />
+<img src="/img/2022.jpeg" width=100% />
 
 ---
 
@@ -68,13 +69,15 @@
 
 - 沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
 
-- 联系电话 0531-89631358 
+- 联系电话 [0531-89631358](tel:053189631358)
 
 ---
 
 ## 部门/协会LOGO
 
-![logo](/img/logo.jpg)
+<center>
+<img src="/img/logo.jpg" width=30% />
+</center>
 
 ---
 
@@ -86,4 +89,4 @@
 
  ---
 
- 最后更新时间：2023 年 7 月 26 日 制作：刘正阳
+ 最后更新时间：2023 年 8 月 10 日

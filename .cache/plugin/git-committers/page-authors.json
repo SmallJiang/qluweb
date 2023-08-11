@@ -1,0 +1,290 @@
+{
+    "cache_date": "2023-08-10",
+    "page_authors": {
+        "docs/index.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                }
+            ]
+        },
+        "docs/about.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/chat.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                },
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                }
+            ]
+        },
+        "docs/join.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/link.md": {
+            "last_commit_date": "2023-08-04",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/news.md": {
+            "last_commit_date": "2023-08-03",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/resources.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                },
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                }
+            ]
+        },
+        "docs/help/apply.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/help/campusnetwork.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/help/mail.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                },
+                {
+                    "login": "Chenya7008",
+                    "name": "Chenya7008",
+                    "url": "https://github.com/Chenya7008",
+                    "avatar": "https://avatars.githubusercontent.com/u/72635823"
+                },
+                {
+                    "login": "Lingzilla",
+                    "name": "Lingzilla",
+                    "url": "https://github.com/Lingzilla",
+                    "avatar": "https://avatars.githubusercontent.com/u/133772875"
+                }
+            ]
+        },
+        "docs/help/ms.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                },
+                {
+                    "login": "Chenya7008",
+                    "name": "Chenya7008",
+                    "url": "https://github.com/Chenya7008",
+                    "avatar": "https://avatars.githubusercontent.com/u/72635823"
+                },
+                {
+                    "login": "Lingzilla",
+                    "name": "Lingzilla",
+                    "url": "https://github.com/Lingzilla",
+                    "avatar": "https://avatars.githubusercontent.com/u/133772875"
+                }
+            ]
+        },
+        "docs/help/os.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/help/sso.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                },
+                {
+                    "login": "Lingzilla",
+                    "name": "Lingzilla",
+                    "url": "https://github.com/Lingzilla",
+                    "avatar": "https://avatars.githubusercontent.com/u/133772875"
+                }
+            ]
+        },
+        "docs/help/vpn.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "Lingzilla",
+                    "name": "Lingzilla",
+                    "url": "https://github.com/Lingzilla",
+                    "avatar": "https://avatars.githubusercontent.com/u/133772875"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        },
+        "docs/help/yunpan.md": {
+            "last_commit_date": "2023-08-10",
+            "authors": [
+                {
+                    "login": "AethoceSora",
+                    "name": "AethoceSora",
+                    "url": "https://github.com/AethoceSora",
+                    "avatar": "https://avatars.githubusercontent.com/u/53993397"
+                },
+                {
+                    "login": "SmallJiang",
+                    "name": "SmallJiang",
+                    "url": "https://github.com/SmallJiang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17243630"
+                }
+            ]
+        }
+    }
+}

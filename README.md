@@ -6,13 +6,12 @@
 
 ## 部署教程
 
-`pip install -r requirement.txt`
-
-`cd /path/to/this/repo`
-
-`mkdocs build`
-
-`mkdocs serve`
+```sh
+pip install -r requirement.txt
+cd /path/to/this/repo
+mkdocs build
+mkdocs serve
+```
 
 ## 贡献指南
 

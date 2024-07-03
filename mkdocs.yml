@@ -3,7 +3,7 @@ site_url:
 repo_url: https://github.com/SmallJiang/qluweb/
 repo_name: qluweb
 nav:
-    - 关于我们: about.md
+    - 关于我们: index.md
     - 协会动态: news.md
     - 加入我们: join.md
     - 联系我们: chat.md
@@ -21,7 +21,7 @@ nav:
       - 统一身份认证: help/sso.md
       - 一网通: help/os.md
       - 工大云盘: help/yunpan.md
-      - 开源软件镜像站: https://mirrors.qlu.edu.cn/help/CRAN/
+      - 开源软件镜像站: https://mirrors.qlu.edu.cn/
 
 theme:
   name: material

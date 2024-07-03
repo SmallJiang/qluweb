@@ -13,7 +13,7 @@
 
 <img src="/img/vpn1.png" width=100% />
 
-若想要访问的服务呈灰色，且页面顶端提示未安装客户端，则需要 [安装客户端](#使用客户端连接-vpn)
+若想要访问的服务呈灰色，且页面顶端提示未安装客户端，则需要 [安装客户端](##使用客户端连接 VPN)
 
 <img src="/img/vpn-require.png" width=100% />
 
@@ -23,7 +23,7 @@
 
 部分复杂的或者未被添加进 VPN 服务列表内的网络资源，需要使用客户端连接 VPN 使用。
 
-我校采用深信服的 EasyConnect 客户端，可以到 [客户端下载页面](c/com/installClient_en.html#auto-common) 下载适合您设备的应用程序。
+我校采用深信服的 EasyConnect 客户端，可以到 [客户端下载页面](https://vpn.qlu.edu.cn/resource/client/windows/aTrustInstaller.exe) 下载适合您设备的应用程序。
 
 <img src="/img/vpn-download.png" width=100% />
 

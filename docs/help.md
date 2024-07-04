@@ -12,7 +12,7 @@
 - [工大云盘](help/yunpan.md)
 - [开源软件镜像站](https://mirrors.qlu.edu.cn/help/CRAN/)
 
-本文档由网络信息中心[网络运维 (网络与高性能计算协会)](about.md) 成员撰写和维护。
+本文档由网络信息中心[网络运维 (网络与高性能计算协会)](index.md) 成员撰写和维护。
 
 本站的全部文字在 [CC BY-SA 4.0 协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)之条款下提供，附加条款亦可能应用。
 

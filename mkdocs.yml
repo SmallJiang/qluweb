@@ -1,0 +1,42 @@
+site_name: 齐鲁工业大学网络运维＆网络与高性能计算协会
+site_url: 
+repo_url: https://github.com/SmallJiang/qluweb/
+repo_name: qluweb
+nav:
+    - 关于我们: about.md
+    - 协会动态: news.md
+    - 加入我们: join.md
+    - 联系我们: chat.md
+    - 友情链接: link.md
+    - 信息系统导航: resources.md
+    - 开源软件镜像站: https://mirrors.qlu.edu.cn
+    - 校园MineCraft服务器: https://www.mc9g.cn
+    - 信息系统使用指南: 
+      - 关于本指南: help.md
+      - 校园网: help/campusnetwork.md
+      - 网络资源申请: help/apply.md
+      - 校外VPN: help/vpn.md
+      - 邮箱系统: help/mail.md
+      - 正版软件: help/ms.md
+      - 统一身份认证: help/sso.md
+      - 一网通: help/os.md
+      - 工大云盘: help/yunpan.md
+      - 开源软件镜像站: https://mirrors.qlu.edu.cn/help/CRAN/
+
+theme:
+  name: material
+  favicon: img/favicon.ico
+  repo: fontawesome/brands/github
+  features:
+    - navigation.expand
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: iso_date    
+  - search:
+
+copyright: 版权所有 © 2016 - 2023 齐鲁工业大学网络信息中心 网络运维 <br> <a href="https://beian.miit.gov.cn/">鲁ICP备05046217号</a>
+
+
+

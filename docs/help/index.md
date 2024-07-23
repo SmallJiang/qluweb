@@ -15,4 +15,4 @@
 
 齐鲁工业大学网络与高性能计算协会旨在聚集一批对计算机网络、高性能计算、网络安全与攻防、开源社区等领域富有兴趣的爱好者，促进专业技术交流、推广开源软件和专业技能知识。
 
-如您对此富有兴趣，欢迎参加协会 2024 年纳新。
+如您对此富有兴趣，欢迎点击加入参加协会 [2024 年纳新 QQ 群]((http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079))。

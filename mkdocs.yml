@@ -37,6 +37,11 @@ theme:
   features:
     - navigation.expand
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 plugins: 
   - search:
 

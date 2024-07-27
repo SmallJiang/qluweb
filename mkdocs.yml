@@ -25,9 +25,11 @@ nav:
       - 开源软件镜像站: https://mirrors.qlu.edu.cn/help/CRAN/
     - 2024新生入学指南: 
       - 关于本指南: help/index.md
-      - 一号通激活: help/sso.md
-      - 教育邮箱激活: help/mail.md
       - 校园网开通: help/network.md
+      - 一号通激活: help/sso.md
+      - 工大OS平台: help/os.md
+      - 教育邮箱激活: help/mail.md
+      
 
 
 theme:

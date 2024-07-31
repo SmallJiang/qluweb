@@ -49,7 +49,7 @@
 
     分享各类软件工具、影视视频与网课学习资料。
 
-- [齐鲁工大DNS域名解析服务]
+- [齐鲁工大 DNS 域名解析服务]
 
 	210.44.144.44
 
@@ -71,7 +71,7 @@
 
 - 我们的办公与活动场所位于齐鲁工业大学（山东省科学院）校图书馆 C 区 1 楼 C101 办公室。
 
-- [2023 网络运维&网络与高性能计算协会交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)
+- [2024 年纳新 QQ 群：725386079](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-gZZpcep15eop2Gq3BjsD_YTrGg2OfuP&authKey=%2BncAdHG8jS3au8ZB%2BoEceZULPy40qcKnnq1Se6zMxUU8NFQI75m66uPiluZD%2FfJc&noverify=0&group_code=725386079)。
 
 - 沟通邮箱 [wlyw@qlu.edu.cn](mailto:wlyw@qlu.edu.cn)
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 部门/协会LOGO
+## 部门/协会 LOGO
 
 <center>
 <img src="/img/logo.jpg" width=30% />

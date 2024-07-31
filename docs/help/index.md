@@ -2,6 +2,8 @@
 
 &emsp;&emsp;亲爱的 2024 级新生，欢迎来到齐鲁工业大学（山东省科学院），在您收到录取通知书后，请跟随本报道指南，完成相应信息系统的激活工作。
 
+&emsp;&emsp;请注意，由于各省（市）录取时间不一，新生预报道流程预计 2024 年 8 月 10 日上线，请您留意本页面的相关提示，以免错过后续相关通知！
+
 - [校园网激活](network.md)
 - [一号通激活及人脸上传](sso.md)
 - [工大 OS 平台](os.md)
@@ -25,4 +27,6 @@
 
 &emsp;&emsp;齐鲁工业大学网络与高性能计算协会旨在聚集一批对计算机网络、高性能计算、网络安全与攻防、开源社区等领域富有兴趣的爱好者，促进专业技术交流、推广开源软件和专业技能知识。
 
-&emsp;&emsp;如您对此富有兴趣，欢迎点击加入参加协会 [2024 年纳新 QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SmdETc0KEXBIFRw3FbeWs1tNhQD7YXH_&authKey=kcW0U3K%2FG3aFjPRyUmFqTNs7CKzoHU6p1Y33A9ldRu9S4dC2UCc%2BoTPqn9gEVOz0&noverify=0&group_code=725386079)。
+&emsp;&emsp;如您对此富有兴趣，欢迎点击加入参加协会 [2024 年纳新 QQ 群：725386079](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5aOJDIVjsIeufrivyR9hVmjMdGE952v6&authKey=Ep9R6SiccglhPZQ1L4F4%2BPhhA5TRrf9RW1eY%2FqQrRxobPgZP3urmriN%2Bd00RgXpT&noverify=0&group_code=725386079)。
+
+&emsp;&emsp;同时，欢迎您填写协会 [2024 年纳新报名表](https://wlyw.qlu.edu.cn)参加我们的 2024 年纳新。
